@@ -1,0 +1,24 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7af031d32e444c2ad1f698fb651a9ade8ff3a9b84304c348012f4bdc50d57118"
+        },
+        "pipfile-spec": 1,
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "lxml": {
+            "version": "==3.8.0"
+        },
+        "python-docx": {
+            "version": "==0.8.6"
+        }
+    },
+    "develop": {}
+}
